@@ -1,0 +1,13 @@
+.list li {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    padding: 8px;
+    margin: 8px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  .list ul {
+    list-style: none;
+    padding: 0;
+  }
