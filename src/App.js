@@ -32,6 +32,11 @@ function App() {
 
   return (
     <div className="app">
+      <svg width="">
+        <text x="20" y="20" fill="cornflowerblue">
+          Change the order of list according to your wish
+        </text>
+      </svg>
       <DemoList
         title={listTitle}
         items={listItem}
